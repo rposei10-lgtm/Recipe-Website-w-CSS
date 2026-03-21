@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Recipes</title>
+  </head>
+    <link href="styles.css" rel="stylesheet">
+  <body>
+    <h1>Chocolate Fudge</h1>
+    
+    <img src="chocolate-fudge.jpg" alt="A rich, decadent slice of chocolate fudge">
+    
+    <h2>Description</h2>
+    <p>
+      Chocolate fudge is a classic confection that combines rich cocoa with smooth, creamy texture. 
+      This indulgent treat is perfect for any occasion and can be made right in your own kitchen. 
+      With just a few simple ingredients and basic cooking techniques, you'll be able to create 
+      professional-quality fudge that rivals anything from a specialty candy shop.
+    </p>
+    <p>
+      The key to perfect chocolate fudge is careful temperature control and proper beating techniques. 
+      Follow these simple steps and you'll have delicious homemade fudge ready to share with friends 
+      and family. Store it in an airtight container and it will stay fresh for weeks!
+    </p>
+    
+    <h2>Ingredients</h2>
+    <ul>
+      <li>2 cups granulated sugar</li>
+      <li>3/4 cup unsweetened cocoa powder</li>
+      <li>1 cup milk</li>
+      <li>1/2 cup butter</li>
+      <li>1 teaspoon vanilla extract</li>
+      <li>Pinch of salt</li>
+    </ul>
+    
+    <h2>Steps</h2>
+    <ol>
+      <li>Combine sugar, cocoa powder, milk, and butter in a heavy saucepan. Heat over medium heat, stirring constantly until the mixture reaches 238°F (soft ball stage) on a candy thermometer.</li>
+      <li>Remove from heat and let cool for 5 minutes without stirring. Add vanilla extract and salt, then beat with an electric mixer or wooden spoon until the mixture becomes thick and loses its glossy appearance. Pour into a buttered 8x8 inch pan and allow to cool completely before cutting into squares.</li>
+    </ol>
+    
+    <h2>More Recipes</h2>
+    <ul>
+      <li><a href="#">Chocolate Chip Cookies</a></li>
+      <li><a href="#">Brownies</a></li>
+      <li><a href="#">Chocolate Mousse</a></li>
+    </ul>
+  </body>
+</html>
